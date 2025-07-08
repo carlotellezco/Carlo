@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Me</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Logo" class="logo"/>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>About Me</h1>
+    <p>Hello, I'm Carlos Tellez, a 24-year-old photographer and videographer based in Charlotte, NC. With over 5 years of experience behind the lens, I am passionate about capturing the moments that matter most.</p>
+    <p>My work is about more than just pictures and videos—it's about preserving your special moments so they never fade. Whether it's a milestone, an event, or a casual occasion, I aim to turn your vision into reality and ensure those unforgettable moments are never forgotten.</p>
+    <p>As a bilingual professional, I speak both fluent English and Spanish, allowing me to connect with a diverse range of clients and bring your vision to life in the language that feels most comfortable for you.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Carlo Tellez</p>
+  </footer>
+</body>
+</html>
